@@ -1,0 +1,114 @@
+body {
+background-color: #000000;
+color: #ffffff;
+margin: 0px;
+}
+
+header {
+background-image: url('https://i.pinimg.com/originals/6b/71/e0/6b71e0c74e6b42f53de0cefb7884f704.gif');
+background-size: cover;
+background-position: center;
+border-radius: 15px;
+padding: 50px 30px;
+text-align: right;
+margin: 10px;
+}
+
+h1 {
+font-size: 50px;
+text-shadow: #514485 4px 2px 1px;
+font-family: 'Courier New';
+}
+
+#proverbio {
+font-family: 'Arial';
+font-size: 22px;
+text-shadow: #514485 2px 2px 1px;
+text-align: right;
+}
+
+h2 {
+font-size: 30px;
+font-family:'Arial';
+text-align: left;
+margin-bottom: 0px;
+}
+
+p {
+font-family: 'Arial';
+text-align: justify;
+line-height: 25px;
+}
+
+.seccion1 {
+display: flex;
+gap: 15px;
+margin-top: 15px;
+margin-bottom: 15px;
+margin: 10px;
+}
+
+.seccion1 img {
+max-width: 100%;
+width: 300px;
+border-radius: 15px;
+
+}
+
+.item1 {
+background-color: #514485;
+padding-top: 30px;
+padding-left: 30px;
+padding-right: 30px;
+border-radius: 15px;
+}
+
+.lista {
+font-family: 'Arial';
+line-height: 25px;
+}
+
+.seccion2 {
+background-color: #514485;
+padding-top: 5px;
+padding-bottom: 10px;
+padding-left: 30px;
+padding-right: 30px;
+border-radius: 15px;
+margin: 10px;
+}
+
+.footer {
+background-color: rgb(30, 30, 30);
+padding: 20px;
+font-size: 12px;
+color: rgb(174, 174, 174);
+}
+
+.flag {
+display: flex;
+gap: 10px;
+}
+
+.flag img {
+width: 50px;
+height: 30px;
+margin-top: 10px;
+}
+
+#free {
+font-family: 'courier new';
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
+color:rgb(174, 174, 174);
+margin-bottom: 0px;
+}
+
+a{
+    color: #ffffff;
+}
+
+a:hover {
+color: #ff4aa7;
+}
